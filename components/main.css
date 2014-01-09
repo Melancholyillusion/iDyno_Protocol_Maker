@@ -1,0 +1,183 @@
+#nav a {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: bolder;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+#nav a:visited {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: bolder;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+#nav {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: bolder;
+	color: #FFFFFF;
+	text-decoration: none;
+}.leftindex {
+	border: 1px solid #003366;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	text-align: left;
+}
+.catindexheading {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: bolder;
+	font-variant: small-caps;
+	color: #FFFFFF;
+	text-align: left;
+}
+
+table.tablefromleft {
+	position:relative;
+ 	left:40px;
+	
+}
+
+.pushFromLeft {
+	text-align: left;
+	position:relative;
+ 	left:40px;
+	
+}
+
+.text_line
+{
+	clear:both;
+}
+
+
+#textheading {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 30px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 10px;
+	margin-top: 0px;
+	text-align: left;
+}
+#textsubheading {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 10px;
+	margin-top: 0px;
+	text-align: left;
+}
+#textinfo {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 10px;
+	margin-top: 0px;
+	line-height: 25px;
+	text-align: left;
+}
+
+#aminos {
+	font-family: "Courier", Courier, serif;
+	font-size: 16px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 10px;
+	margin-top: 0px;
+	line-height: 25px;
+	text-align: left;
+}
+
+#aminos  table{
+	border-width: 0px 0px 0px 0px;
+	border-collapse: collapse;
+	border-style: none none none none;
+}
+
+#aminos  td{
+	font-family: "Courier", Courier, serif;
+	font-size: 16px;
+	font-weight: normal;
+	margin: 0px;
+	padding: 0px;
+	line-height: 16px;
+	border-width: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+    border-style: none;
+}
+
+#formtable  table{
+	border-width: 0 0 0px 0px;
+    border-style: solid;
+}
+
+#formtable  td{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-weight: normal;
+	margin: 0px;
+	padding: 4px;
+	line-height: 16px;
+	border-width: 0px 0px 0 0;
+	padding: 1px 40px 4px 4px;
+    border-style: solid;
+}
+
+#wrapper {float:left; width 200px;}
+
+#displayTable { float:left; width:1600px; }
+
+#spacer { float:left; width:1600px; height:10px;}
+
+#bigSpacer { float:left; width:1600px; height:50px;}
+ 
+
+#textinfo  td{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-weight: normal;
+	margin: 0px;
+	padding: 4px;
+	line-height: 16px;
+	border-width: 0px 0px 0 0;
+    border-style: none;
+}
+
+#highlight {
+	background-color: #FFFFCC;
+}
+#highlight a {
+	background-color: #FFFFCC;
+	text-decoration: none;
+	color: #000000;
+	font-weight: bolder;
+}
+#highlight a:visited {
+	background-color: #FFFFCC;
+	text-decoration: none;
+	color: #000000;
+	font-weight: bolder;
+}
+#highlight2 {
+	background-color: #FFFFCC;
+}
+#sidebar a {
+	text-decoration: none;
+	color: #000000;
+}
+#sidebar a:visited {
+	text-decoration: none;
+	color: #000000;
+}
+.outlined {
+	border: thin solid #000066;
+	margin: 10px 0px 0px;
+}
